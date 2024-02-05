@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3 ">
-        While iwas in im 1st year I gained extensive experience in{" "}
+        While i was in im 1st year I gained extensive experience in{" "}
         <span className="font-medium">UI & UX</span> and related technologies
         like as Figma for interactive graphic and motion design which also
         created an urge in me to become a fullstack to know the actual
