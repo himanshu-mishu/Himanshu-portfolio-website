@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About Me</SectionHeading>
       <p className="mb-3 ">
-        While i was in im 1st year I gained extensive experience in{" "}
+        While in 1st year I gained extensive experience in{" "}
         <span className="font-medium">UI & UX</span> and related technologies
         like as Figma for interactive graphic and motion design which also
         created an urge in me to become a fullstack to know the actual
@@ -45,7 +45,7 @@ export default function About() {
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing my
-        Guitar, Swimming, and playing basketball. I also enjoy{" "}
+        Guitar and playing basketball. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
         <span className="font-medium">
