@@ -7,9 +7,9 @@ const nextConfig = {images: {
       },
     ],
   },
-  experimental: {
-    serverActions: true,
-  },
+  // experimental: {
+  //   serverActions: true,
+  // },
 };
 
 module.exports = nextConfig
