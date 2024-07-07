@@ -18,7 +18,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About Me</SectionHeading>
-      <p className="mb-3 ">
+      {/* <p className="mb-3 ">
         While in 1st year I gained extensive experience in{" "}
         <span className="font-medium">UI & UX</span> and related technologies
         like as Figma for interactive graphic and motion design which also
@@ -52,7 +52,14 @@ export default function About() {
           Artificial Intelligence (AI) and Machine Learning
         </span>
         .
-      </p>
+      </p> */
+    }
+      <h4><span className="font-bold">Full Stack Developer,</span> I can be a valuable asset to any organisation as I have been trained to excellence in <span className="font-bold italic">React and Next Js </span>and have relevant experience.
+      I can deal with difficult problem statements.
+      The roles I would prefer are <span className="font-extralight"> Software Engineer | SDE | Solution Engineer | Full Stack Developer | MongoDB | MySQL | Software Engineer | Backend Engineer. </span>
+       I have the hunger to learn and enhance my knowledge for optimum growth of my potential and professional accomplishments with honesty and hard work.
+      </h4>
+      
     </motion.section>
   );
 }
